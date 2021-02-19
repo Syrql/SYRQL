@@ -2,7 +2,7 @@
 
 ## 💬 Languages
 
-[![N|Java](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+- Java
 <!--
 **Syrql/SYRQL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
