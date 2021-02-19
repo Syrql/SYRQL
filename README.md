@@ -1,7 +1,8 @@
 ### Hi👋, Welcome to SYRQL's github 😄
 
 ## 💬 Languages
-- [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![N|Java](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 <!--
 **Syrql/SYRQL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
