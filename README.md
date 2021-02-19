@@ -1,8 +1,6 @@
 ### Hi👋, Welcome to SYRQL's github 😄
 
-## 💬 Languages
-
-- Java
+## 💬 Wait, i'm currently editing my page...
 <!--
 **Syrql/SYRQL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
