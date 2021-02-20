@@ -10,6 +10,10 @@
 
 ![java](https://user-images.githubusercontent.com/41534598/108599307-ad01e700-7390-11eb-9792-d798b1a02f38.png)
 
+## Contacts
+
+[![Twitter](https://user-images.githubusercontent.com/41534598/108599642-af654080-7392-11eb-9166-b474971e4b84.png)](https://twitter.com/twitter)
+
 ## 📈 Stats
 [![SYRQL's github stats](https://github-readme-stats.vercel.app/api?username=Syrql&theme=blue-green)](https://github.com/Syrql) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYRQL&layout=compact&theme=blue-green)
 
