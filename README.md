@@ -1,6 +1,6 @@
 ### Hi 👋, Welcome to SYRQL's github 😄
 
-## 💬 I am developper and student who live in France
+## 💬 I am developer and student who live in France
 - 📝 I am learning Java language
 - 🔰 I am self-taught
 
