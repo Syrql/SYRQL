@@ -12,7 +12,7 @@
 
 ## Contacts
 
-[![Twitter](https://user-images.githubusercontent.com/41534598/108599642-af654080-7392-11eb-9166-b474971e4b84.png)](https://twitter.com/twitter)
+[![Twitter](https://user-images.githubusercontent.com/41534598/108599716-1b47a900-7393-11eb-9c27-7bbaf7acea17.png)](https://twitter.com/twitter)
 
 ## 📈 Stats
 [![SYRQL's github stats](https://github-readme-stats.vercel.app/api?username=Syrql&theme=blue-green)](https://github.com/Syrql) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYRQL&layout=compact&theme=blue-green)
