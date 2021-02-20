@@ -2,6 +2,12 @@
 
 ## 💬 Wait, i'm currently editing my page...
 
+## 🛡️ Tools
+### 📡Languages
+
+![java](https://user-images.githubusercontent.com/41534598/108598728-91e2a780-738f-11eb-93ad-b78d51458ee8.png)
+
+
 <!--
 **Syrql/SYRQL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
