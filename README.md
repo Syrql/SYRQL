@@ -10,7 +10,7 @@
 
 ![java](https://user-images.githubusercontent.com/41534598/108599307-ad01e700-7390-11eb-9792-d798b1a02f38.png)
 
-[![SYRQL's github stats](https://github-readme-stats.vercel.app/api?username=Syrql&theme=red-green)](https://github.com/Syrql) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYRQL&layout=compact)
+[![SYRQL's github stats](https://github-readme-stats.vercel.app/api?username=Syrql&theme=blue-green)](https://github.com/Syrql) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYRQL&layout=compact&theme=blue-green)
 
 <!--
 **Syrql/SYRQL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
