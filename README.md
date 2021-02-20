@@ -4,7 +4,7 @@
 
 ### 🛡️ Tools
 
-![intellij](https://user-images.githubusercontent.com/41534598/108598823-4da3d700-7390-11eb-968a-4a2c9352a73d.png)
+![intellij](https://user-images.githubusercontent.com/41534598/108599316-bf7c2080-7390-11eb-8d7d-2a95f97a2fda.png)
 
 ### 📡Languages
 
