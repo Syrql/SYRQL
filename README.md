@@ -8,7 +8,8 @@
 
 ### 📡Languages
 
-![java](https://user-images.githubusercontent.com/41534598/108598814-3ebd2480-7390-11eb-95eb-846d1fbdeba5.png)
+![java](https://user-images.githubusercontent.com/41534598/108599307-ad01e700-7390-11eb-9792-d798b1a02f38.png)
+
 
 
 <!--
