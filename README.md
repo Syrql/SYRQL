@@ -2,7 +2,10 @@
 
 ## 💬 Wait, i'm currently editing my page...
 
-## 🛡️ Tools
+### 🛡️ Tools
+
+![intellij](https://user-images.githubusercontent.com/41534598/108598823-4da3d700-7390-11eb-968a-4a2c9352a73d.png)
+
 ### 📡Languages
 
 ![java](https://user-images.githubusercontent.com/41534598/108598814-3ebd2480-7390-11eb-95eb-846d1fbdeba5.png)
