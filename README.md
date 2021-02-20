@@ -1,4 +1,4 @@
-### Hi👋, Welcome to SYRQL's github 😄
+### Hi 👋, Welcome to SYRQL's github 😄
 
 ## 💬 I am developper and student who live in France
 
@@ -6,10 +6,11 @@
 
 ![intellij](https://user-images.githubusercontent.com/41534598/108599316-bf7c2080-7390-11eb-8d7d-2a95f97a2fda.png)
 
-## 📡Skills
+## 📡 Skills
 
 ![java](https://user-images.githubusercontent.com/41534598/108599307-ad01e700-7390-11eb-9792-d798b1a02f38.png)
 
+## 📈 Stats
 [![SYRQL's github stats](https://github-readme-stats.vercel.app/api?username=Syrql&theme=blue-green)](https://github.com/Syrql) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYRQL&layout=compact&theme=blue-green)
 
 <!--
