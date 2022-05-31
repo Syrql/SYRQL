@@ -16,7 +16,7 @@
 
 ## 📈 Stats
 
-# There you can watch my personal stats
+There you can watch my personal stats
 [![SYRQL's github stats](https://github-readme-stats.vercel.app/api?username=Syrql&theme=blue-green)](https://github.com/Syrql) 
 
 - And about my personal language
