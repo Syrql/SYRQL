@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-💬 I'm french developer specialize on Java, and in the process of learning web languages. My name is Léo and i'm currently 19 years old, i have been developing for 3 years.
+💬 I'm french developer specialize on Java, and in the process of learning web languages. My name is Léo and i'm currently 20 years old, i have been developing for 5 years.
 
 ## 🛡️ What i use?
 
